@@ -15,6 +15,12 @@
 [Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 
 
+## 工具类网站
+
+[YApi](http://yapi.demo.qunar.com/) 接口管理平台，可部署在内网
+[稿定设计](https://www.uupoop.com/) 在线PS、自动抠图等，方便好用
+[carbon](https://carbon.now.sh/) 将代码生成漂亮图片的网站
+
 
 ## 软件平台
 [mac软件破解网站](https://xclient.info/)，完全免费，不需要注册，排版合理。分享了众多mac版本的破解软件。👍
